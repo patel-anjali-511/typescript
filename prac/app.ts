@@ -244,3 +244,4 @@ const tesla: ElCar ={
     batteryCap:23
 }
 console.log(tesla)
+

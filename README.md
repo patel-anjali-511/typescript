@@ -68,6 +68,39 @@ it's go to any
 -Extending Interface
  
 
+27-7
+
 -fundamentals of type aliases
 
 -intersection types
+
+# fundalmental of classes & objs 
+-constructor
+-classes & objects:this.keyword
+then diff methods created and if we want to touch any variable of it so i have to use this keyword
+
+methods- if function is created inside the func its called method not a function
+
+# access modifire
+-public:everywhere u can use it
+-private:u only use that var or method in that particular class
+-protected:u can use in that particular class and also inextended class
+
+# optinal properties
+?
+# readonly
+u can use readonly if u don't want to change  that paerticular variable u can use after access modifire
+
+# parameters properties
+
+# getter setter
+
+# static members
+
+# abstact class
+
+# functios
+-function types
+-optinal and default parameters
+- rest parameters
+-overloads(function overloading)- func with same name but diff args
