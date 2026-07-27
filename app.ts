@@ -84,3 +84,62 @@ let w:[number,string] =[12,'and']
 let s:string = '23'
 if(s === 'stirng')
 console.log(s.toUpperCase())
+
+
+//interface 
+//  interface User {
+//     name:string,
+//     email:string,
+//     password:string,
+//     gender?:string
+
+//  }
+
+//  function efg(obj:User){
+//  obj
+//  }
+
+//  efg({name:"anjali", email:"anj@gmail.com",password:"anj123"})
+
+
+ //extending interface
+
+//  interface User{
+//     name:string,
+//     email:string,
+//     password:string
+//  }
+//  interface Admin extends User {
+//     admin:string
+
+//  }
+
+//  function pq(obj:Admin){
+    
+//  }
+
+//  pq({name:"an",email:"anjaliptl",password:"anp123",admin:'anj'})
+
+
+//fundamentals of type aliases
+// type arg = string | null
+// function hj(obj:arg){
+
+// }
+// hj(null)
+
+type User ={
+    name:string,
+    email:string
+}
+
+type Admin = User & {
+    getDetails(user:string):void
+}
+
+function bvm(a:Admin){
+    
+}
+
+//intersection types
+

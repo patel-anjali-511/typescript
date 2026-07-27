@@ -54,3 +54,20 @@ it's go to any
 # Annotation 
 
 ## TYPE ANNOTATION
+
+## INTRODUCTION INTERFACES & TYPES ALIASES
+-Defining interfaces
+-Using interfaces to define obj shapes
+-Extending interfaces
+-Types aliases
+-Intersection types
+
+
+-Interface
+ 2 interface with same name will be merged
+-Extending Interface
+ 
+
+-fundamentals of type aliases
+
+-intersection types
