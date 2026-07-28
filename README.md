@@ -104,3 +104,24 @@ u can use readonly if u don't want to change  that paerticular variable u can us
 -optinal and default parameters
 - rest parameters
 -overloads(function overloading)- func with same name but diff args
+
+# 28-7
+
+intersection - when you combine two or more types or interface
+
+# generics
+
+-generic function
+-generic interface
+-generic classes
+
+# modules
+ -exporting & importing modules
+ -default exports
+
+ # type Assertion
+ # type casting
+ # non-null assertion operator
+ # guard type 
+ -is equal to type narrowing
+ -typeof instanceof
