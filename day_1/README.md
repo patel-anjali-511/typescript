@@ -14,19 +14,19 @@ This repository contains my **Day 1 internship task** for the MERN + TypeScript 
 
 ## 📂 Project Structure
 
+
 ```text
-day_1_task1/
-│
+day_1/
 ├── src/
 │   ├── app.ts
 │   └── middleware/
 │       └── logger.ts
-│
-├── server.ts
-├── .env
-├── tsconfig.json
+├── .gitignore
+├── README.md
+├── package-lock.json
 ├── package.json
-└── README.md
+├── server.ts
+└── tsconfig.json
 ```
 
 ---
